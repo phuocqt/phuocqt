@@ -1,7 +1,7 @@
 ### 👋 Hello! I'm Phuoc.
 #### *I'm a self-taught passionate FrontEnd developer*
 **About me**
-- Experience with HTML, CSS, JavaScript, React.js, TypeScript.
+- Experience with HTML, CSS, JavaScript, ReactJs, TypeScript.
 - Understanding of Next.js, Node.js, MongoDB, MySQL, PostgreSQL, and can work with them if needed.
 - Able to read and understand English documents well, with medium-level English communication ability.
 - Understanding Japanese at a basic level.
