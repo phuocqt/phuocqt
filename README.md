@@ -7,4 +7,4 @@
 - Understanding Japanese at a basic level.
 - Ability to learn and apply new technology quickly.
 
-Skills: REACT / JS / HTML / CSS / TYPESCRIPT / NEXTJS / NODEJS / Docker
+Skills: REACT / JS / HTML / CSS / TYPESCRIPT / NEXTJS / NODEJS / DOCKER
